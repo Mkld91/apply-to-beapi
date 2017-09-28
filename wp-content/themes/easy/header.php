@@ -23,16 +23,16 @@
     <link href="https://fonts.googleapis.com/css?family=Monoton" rel="stylesheet">
 
     <!-- styles -->
-    <link rel="stylesheet" type="text/css" href="<?php echo get_stylesheet_directory_uri(); ?>/css/bootstrap.min.css"/>
-    <link rel="stylesheet" type="text/css" href="<?php echo get_stylesheet_directory_uri(); ?>/css/magnific-popup.min.css"/>
-    <link rel="stylesheet" type="text/css" href="<?php echo get_stylesheet_directory_uri(); ?>/css/font-awesome.min.css"/>
-    <link rel="stylesheet" type="text/css" href="<?php echo get_stylesheet_directory_uri(); ?>/css/style.css"/>
+    <link rel="stylesheet" type="text/css" href="<?php echo get_stylesheet_directory_uri(); ?>/html/css/bootstrap.min.css"/>
+    <link rel="stylesheet" type="text/css" href="<?php echo get_stylesheet_directory_uri(); ?>/html/css/magnific-popup.min.css"/>
+    <link rel="stylesheet" type="text/css" href="<?php echo get_stylesheet_directory_uri(); ?>/html/css/font-awesome.min.css"/>
+    <link rel="stylesheet" type="text/css" href="<?php echo get_stylesheet_directory_uri(); ?>/html/css/style.css"/>
 
     <!-- Javascript libraries -->
-    <script type="text/javascript" src="<?php echo get_stylesheet_directory_uri(); ?>/js/modernizr.js"></script>
-    <script type="text/javascript" src="<?php echo get_stylesheet_directory_uri(); ?>/js/jquery.min.js"></script>
+    <script type="text/javascript" src="<?php echo get_stylesheet_directory_uri(); ?>/html/js/modernizr.js"></script>
+    <script type="text/javascript" src="<?php echo get_stylesheet_directory_uri(); ?>/html/js/jquery.min.js"></script>
 
     <!--[if IE]>
-    <script src="<?php echo get_stylesheet_directory_uri(); ?>/js/html5shiv.js"></script>
+    <script src="<?php echo get_stylesheet_directory_uri(); ?>/html/js/html5shiv.js"></script>
     <![endif]-->
 </head>

@@ -34,8 +34,8 @@
     </div>
 </footer>
 <!-- javascript -->
-<script src="<?php echo get_stylesheet_directory_uri(); ?>/js/plugins.js"></script>
-<script src="<?php echo get_stylesheet_directory_uri(); ?>/js/smooth-scroll.js"></script>
-<script src="<?php echo get_stylesheet_directory_uri(); ?>/js/jquery.countTo.js"></script>
-<script src="<?php echo get_stylesheet_directory_uri(); ?>/js/particles.min.js"></script>
-<script src="<?php echo get_stylesheet_directory_uri(); ?>/js/main.js"></script>
+<script src="<?php echo get_stylesheet_directory_uri(); ?>/html/js/plugins.js"></script>
+<script src="<?php echo get_stylesheet_directory_uri(); ?>/html/js/smooth-scroll.js"></script>
+<script src="<?php echo get_stylesheet_directory_uri(); ?>/html/js/jquery.countTo.js"></script>
+<script src="<?php echo get_stylesheet_directory_uri(); ?>/html/js/particles.min.js"></script>
+<script src="<?php echo get_stylesheet_directory_uri(); ?>/html/js/main.js"></script>
